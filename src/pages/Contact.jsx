@@ -124,7 +124,7 @@ const Contact = () => {
             />
           </div>
 
-          <div className="md:col-span-2 text-center">
+          <div className="md:col-span-2 text-center cursor-pointer">
             <button
               type="submit"
               className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-3 rounded-full shadow-md transition"
